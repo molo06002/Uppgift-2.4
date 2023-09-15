@@ -17,7 +17,7 @@ namespace Uppgift_2_4
             int u = Convert.ToInt32(p);
             int t = y + o + u;
             int R = t / 3;
-            Console.WriteLine("Medellönen för alla är: " + R);
+            Console.WriteLine("Medellönen för alla är: " + R);//
         }
     }
 }
